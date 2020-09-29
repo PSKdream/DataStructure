@@ -1,0 +1,9 @@
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Lists\bin\Debug\Lists.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Lists\bin\Debug\Lists.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Lists\bin\Debug\Collections.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Lists\bin\Debug\Collections.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Lists\obj\Debug\Lists.csproj.CopyComplete
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Lists\obj\Debug\Lists.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Lists\obj\Debug\Lists.pdb

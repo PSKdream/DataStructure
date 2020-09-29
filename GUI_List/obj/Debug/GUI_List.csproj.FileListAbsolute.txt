@@ -1,0 +1,15 @@
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\obj\Debug\GUI_List.csprojAssemblyReference.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\obj\Debug\GUI_List.Form1.resources
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\obj\Debug\GUI_List.Properties.Resources.resources
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\obj\Debug\GUI_List.csproj.GenerateResource.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\obj\Debug\GUI_List.csproj.CoreCompileInputs.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\bin\Debug\GUI_List.exe.config
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\bin\Debug\GUI_List.exe
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\bin\Debug\GUI_List.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\bin\Debug\Collections.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\bin\Debug\Lists.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\bin\Debug\Collections.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\bin\Debug\Lists.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\obj\Debug\GUI_List.csproj.CopyComplete
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\obj\Debug\GUI_List.exe
+D:\Users\dram-\Desktop\2_1.1\DataStructure\GUI_List\obj\Debug\GUI_List.pdb
