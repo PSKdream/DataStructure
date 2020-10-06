@@ -50,6 +50,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Lists\Lists.csproj">
+      <Project>{d9698e36-e7c1-40c6-8bb3-5bc428c2a1bc}</Project>
+      <Name>Lists</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Queues\Queues.csproj">
       <Project>{0a578dae-acbd-4eb8-9a37-0043189fee45}</Project>
       <Name>Queues</Name>

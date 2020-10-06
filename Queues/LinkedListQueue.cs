@@ -14,13 +14,24 @@ namespace Queues
         { 
             return list.size(); 
         }
-        public void enqueue(object e) 
-        { 
-        
+        public void enqueue(object e)
+        {
+            list.add(e);
         }
-        public object dequeue() { 
+
+        public object dequeue()
+        {
+            object e = peek();
+            list.remove(0);
+            return e;
         }
-        public object peek() { }
+        public object peek()
+        {
+            if (isEmpty())
+                throw new System.MissingMemberException();
+            return list.get(0);
+        }
+
     }
 
 }
