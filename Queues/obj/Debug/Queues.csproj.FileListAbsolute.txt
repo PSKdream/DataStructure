@@ -1,0 +1,6 @@
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\bin\Debug\Queues.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\bin\Debug\Queues.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\obj\Debug\Queues.csprojAssemblyReference.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\obj\Debug\Queues.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\obj\Debug\Queues.pdb
