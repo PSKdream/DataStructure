@@ -11,7 +11,17 @@ namespace main
     {
         static void Main(string[] args)
         {
-            Queue data = new ArrayListQueue(3);
+            Queue data = new LinkedListPriority();
+            data.enqueue(2);
+            data.enqueue(2);
+            data.enqueue(5);
+            Console.WriteLine(data.peek());
+            data.enqueue(2);
+            data.enqueue(10);
+            data.enqueue(2);
+            Console.WriteLine(data.peek());
+            data.dequeue();
+            data.dequeue();
         }
     }
 }

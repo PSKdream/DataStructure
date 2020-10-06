@@ -8,3 +8,13 @@ D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\obj\Debug\Maze.csproj.CoreCompil
 D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\obj\Debug\Maze.csproj.CopyComplete
 D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\obj\Debug\Maze.exe
 D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\obj\Debug\Maze.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\Maze\bin\Debug\Maze.exe.config
+C:\Users\6252300438\Desktop\DataStructure-1\Maze\bin\Debug\Maze.exe
+C:\Users\6252300438\Desktop\DataStructure-1\Maze\bin\Debug\Maze.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\Maze\bin\Debug\Stacks.dll
+C:\Users\6252300438\Desktop\DataStructure-1\Maze\bin\Debug\Stacks.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\Maze\obj\Debug\Maze.csprojAssemblyReference.cache
+C:\Users\6252300438\Desktop\DataStructure-1\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+C:\Users\6252300438\Desktop\DataStructure-1\Maze\obj\Debug\Maze.csproj.CopyComplete
+C:\Users\6252300438\Desktop\DataStructure-1\Maze\obj\Debug\Maze.exe
+C:\Users\6252300438\Desktop\DataStructure-1\Maze\obj\Debug\Maze.pdb

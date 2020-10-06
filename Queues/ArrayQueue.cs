@@ -15,7 +15,8 @@ namespace Queues
 
         public ArrayQueue (int cap)
         {
-
+            data = new object[cap];
+            this.cap = cap;
         }
         private void ensureCapacity()
         {

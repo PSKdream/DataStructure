@@ -1,2 +1,16 @@
 D:\Users\dram-\Desktop\2_1.1\DataStructure\main\obj\Debug\main.csprojAssemblyReference.cache
 D:\Users\dram-\Desktop\2_1.1\DataStructure\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\6252300438\Desktop\DataStructure-1\main\bin\Debug\main.exe.config
+C:\Users\6252300438\Desktop\DataStructure-1\main\bin\Debug\main.exe
+C:\Users\6252300438\Desktop\DataStructure-1\main\bin\Debug\main.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\main\bin\Debug\Queues.dll
+C:\Users\6252300438\Desktop\DataStructure-1\main\bin\Debug\Lists.dll
+C:\Users\6252300438\Desktop\DataStructure-1\main\bin\Debug\Collections.dll
+C:\Users\6252300438\Desktop\DataStructure-1\main\bin\Debug\Queues.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\main\bin\Debug\Lists.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\main\bin\Debug\Collections.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\main\obj\Debug\main.csprojAssemblyReference.cache
+C:\Users\6252300438\Desktop\DataStructure-1\main\obj\Debug\main.csproj.CoreCompileInputs.cache
+C:\Users\6252300438\Desktop\DataStructure-1\main\obj\Debug\main.csproj.CopyComplete
+C:\Users\6252300438\Desktop\DataStructure-1\main\obj\Debug\main.exe
+C:\Users\6252300438\Desktop\DataStructure-1\main\obj\Debug\main.pdb
