@@ -6,6 +6,7 @@ namespace Queues
     public class LinkedListQueue : Queue
     {
         private List list = new LinkedList();
+
         public bool isEmpty() 
         { 
             return list.isEmpty(); 

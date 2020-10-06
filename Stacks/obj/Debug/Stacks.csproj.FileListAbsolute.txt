@@ -4,3 +4,9 @@ D:\Users\dram-\Desktop\2_1.1\DataStructure\Stacks\obj\Debug\Stacks.csprojAssembl
 D:\Users\dram-\Desktop\2_1.1\DataStructure\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
 D:\Users\dram-\Desktop\2_1.1\DataStructure\Stacks\obj\Debug\Stacks.dll
 D:\Users\dram-\Desktop\2_1.1\DataStructure\Stacks\obj\Debug\Stacks.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\Stacks\bin\Debug\Stacks.dll
+C:\Users\6252300438\Desktop\DataStructure-1\Stacks\bin\Debug\Stacks.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\Stacks\obj\Debug\Stacks.csprojAssemblyReference.cache
+C:\Users\6252300438\Desktop\DataStructure-1\Stacks\obj\Debug\Stacks.csproj.CoreCompileInputs.cache
+C:\Users\6252300438\Desktop\DataStructure-1\Stacks\obj\Debug\Stacks.dll
+C:\Users\6252300438\Desktop\DataStructure-1\Stacks\obj\Debug\Stacks.pdb
