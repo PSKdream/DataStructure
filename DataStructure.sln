@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main", "main\main.csproj", "{A568057B-64DE-4298-B089-F8CF8F74A810}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadixSort", "RadixSort\RadixSort.csproj", "{A5F7E15D-E201-4F3A-B805-C8AAF97F4C0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{A568057B-64DE-4298-B089-F8CF8F74A810}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A568057B-64DE-4298-B089-F8CF8F74A810}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A568057B-64DE-4298-B089-F8CF8F74A810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F7E15D-E201-4F3A-B805-C8AAF97F4C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F7E15D-E201-4F3A-B805-C8AAF97F4C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F7E15D-E201-4F3A-B805-C8AAF97F4C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F7E15D-E201-4F3A-B805-C8AAF97F4C0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
