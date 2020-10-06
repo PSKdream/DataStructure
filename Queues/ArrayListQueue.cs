@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Queues
 {
-    public class Class1
+    class ArrayListQueue
     {
     }
 }
