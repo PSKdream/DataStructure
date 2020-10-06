@@ -22,10 +22,13 @@ namespace Queues
         {
             list.add(e);
         }
-        public object dequeue() 
-        { 
-
+        public object dequeue()
+        {
+            object e = peek();
+            list.remove(0);
+            return e;
         }
+
         public object peek() 
         {
             return list.get(list.size() - 1);
