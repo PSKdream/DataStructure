@@ -20,3 +20,5 @@ D:\Users\dram-\Desktop\2_1.1\DataStructure\DataStructure\obj\Debug\DataStructure
 D:\Users\dram-\Desktop\2_1.1\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
 D:\Users\dram-\Desktop\2_1.1\DataStructure\DataStructure\bin\Debug\Lists.dll
 D:\Users\dram-\Desktop\2_1.1\DataStructure\DataStructure\bin\Debug\Lists.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\DataStructure\bin\Debug\Stacks.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\DataStructure\bin\Debug\Stacks.pdb

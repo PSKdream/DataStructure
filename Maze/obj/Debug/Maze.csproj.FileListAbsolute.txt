@@ -1,0 +1,10 @@
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\bin\Debug\Maze.exe.config
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\bin\Debug\Maze.exe
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\bin\Debug\Maze.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\bin\Debug\Stacks.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\bin\Debug\Stacks.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\obj\Debug\Maze.csprojAssemblyReference.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\obj\Debug\Maze.csproj.CoreCompileInputs.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\obj\Debug\Maze.csproj.CopyComplete
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\obj\Debug\Maze.exe
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Maze\obj\Debug\Maze.pdb
