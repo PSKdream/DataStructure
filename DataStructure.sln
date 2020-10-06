@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze", "Maze\Maze.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{0A578DAE-ACBD-4EB8-9A37-0043189FEE45}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main", "main\main.csproj", "{A568057B-64DE-4298-B089-F8CF8F74A810}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{0A578DAE-ACBD-4EB8-9A37-0043189FEE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A578DAE-ACBD-4EB8-9A37-0043189FEE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A578DAE-ACBD-4EB8-9A37-0043189FEE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A568057B-64DE-4298-B089-F8CF8F74A810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A568057B-64DE-4298-B089-F8CF8F74A810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A568057B-64DE-4298-B089-F8CF8F74A810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A568057B-64DE-4298-B089-F8CF8F74A810}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

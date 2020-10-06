@@ -1,0 +1,2 @@
+D:\Users\dram-\Desktop\2_1.1\DataStructure\main\obj\Debug\main.csprojAssemblyReference.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\main\obj\Debug\main.csproj.CoreCompileInputs.cache

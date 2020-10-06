@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Queues;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,6 +11,7 @@ namespace main
     {
         static void Main(string[] args)
         {
+            Queue data = new ArrayListQueue(3);
         }
     }
 }
