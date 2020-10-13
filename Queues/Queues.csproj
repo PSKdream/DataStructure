@@ -44,10 +44,7 @@
     <Compile Include="ArrayListPriorityQueue.cs" />
     <Compile Include="ArrayListQueue.cs" />
     <Compile Include="ArrayQueue.cs" />
-<<<<<<< HEAD
-=======
     <Compile Include="LinkedListPriority.cs" />
->>>>>>> 5652152b10d09b8efb9f4a0b48e1b12f82ca5cc0
     <Compile Include="LinkedListQueue.cs" />
     <Compile Include="PriorityQueue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

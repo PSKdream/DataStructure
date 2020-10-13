@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "DataStructure\DataStructure.csproj", "{DCD28BAA-6A1C-4F86-968C-6ACB5E6863A6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{0116E4C4-CDC7-40F8-8024-4BF4FD60946F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "GUI\GUI.csproj", "{442E223A-8BF8-4B2E-A4A9-537278D7F167}"
@@ -21,9 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze", "Maze\Maze.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queues", "Queues\Queues.csproj", "{0A578DAE-ACBD-4EB8-9A37-0043189FEE45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main", "main\main.csproj", "{A568057B-64DE-4298-B089-F8CF8F74A810}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadixSort", "RadixSort\RadixSort.csproj", "{A5F7E15D-E201-4F3A-B805-C8AAF97F4C0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Postfix", "Postfix\Postfix.csproj", "{DCD28BAA-6A1C-4F86-968C-6ACB5E6863A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,10 +29,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DCD28BAA-6A1C-4F86-968C-6ACB5E6863A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DCD28BAA-6A1C-4F86-968C-6ACB5E6863A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DCD28BAA-6A1C-4F86-968C-6ACB5E6863A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DCD28BAA-6A1C-4F86-968C-6ACB5E6863A6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0116E4C4-CDC7-40F8-8024-4BF4FD60946F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0116E4C4-CDC7-40F8-8024-4BF4FD60946F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0116E4C4-CDC7-40F8-8024-4BF4FD60946F}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -67,14 +61,14 @@ Global
 		{0A578DAE-ACBD-4EB8-9A37-0043189FEE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A578DAE-ACBD-4EB8-9A37-0043189FEE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A578DAE-ACBD-4EB8-9A37-0043189FEE45}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A568057B-64DE-4298-B089-F8CF8F74A810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A568057B-64DE-4298-B089-F8CF8F74A810}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A568057B-64DE-4298-B089-F8CF8F74A810}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A568057B-64DE-4298-B089-F8CF8F74A810}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A5F7E15D-E201-4F3A-B805-C8AAF97F4C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A5F7E15D-E201-4F3A-B805-C8AAF97F4C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5F7E15D-E201-4F3A-B805-C8AAF97F4C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5F7E15D-E201-4F3A-B805-C8AAF97F4C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD28BAA-6A1C-4F86-968C-6ACB5E6863A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD28BAA-6A1C-4F86-968C-6ACB5E6863A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD28BAA-6A1C-4F86-968C-6ACB5E6863A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD28BAA-6A1C-4F86-968C-6ACB5E6863A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

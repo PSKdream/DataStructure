@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{DCD28BAA-6A1C-4F86-968C-6ACB5E6863A6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DataStructure</RootNamespace>
-    <AssemblyName>DataStructure</AssemblyName>
+    <RootNamespace>Postfix</RootNamespace>
+    <AssemblyName>Postfix</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
