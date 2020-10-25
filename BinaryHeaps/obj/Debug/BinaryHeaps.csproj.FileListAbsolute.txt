@@ -1,0 +1,13 @@
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\obj\Debug\BinaryHeaps.csprojAssemblyReference.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\obj\Debug\BinaryHeaps.csproj.CoreCompileInputs.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\bin\Debug\BinaryHeaps.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\bin\Debug\BinaryHeaps.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\bin\Debug\Queues.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\bin\Debug\Lists.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\bin\Debug\Collections.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\bin\Debug\Queues.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\bin\Debug\Lists.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\bin\Debug\Collections.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\obj\Debug\BinaryHeaps.csproj.CopyComplete
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\obj\Debug\BinaryHeaps.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\BinaryHeaps\obj\Debug\BinaryHeaps.pdb

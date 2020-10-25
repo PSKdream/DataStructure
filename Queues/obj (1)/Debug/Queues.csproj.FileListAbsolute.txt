@@ -1,0 +1,25 @@
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\bin\Debug\Queues.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\bin\Debug\Queues.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\obj\Debug\Queues.csprojAssemblyReference.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\obj\Debug\Queues.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\obj\Debug\Queues.pdb
+<<<<<<< HEAD
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\bin\Debug\Collections.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\bin\Debug\Lists.dll
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\bin\Debug\Collections.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\bin\Debug\Lists.pdb
+D:\Users\dram-\Desktop\2_1.1\DataStructure\Queues\obj\Debug\Queues.csproj.CopyComplete
+=======
+C:\Users\6252300438\Desktop\DataStructure-1\Queues\bin\Debug\Queues.dll
+C:\Users\6252300438\Desktop\DataStructure-1\Queues\bin\Debug\Queues.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\Queues\bin\Debug\Collections.dll
+C:\Users\6252300438\Desktop\DataStructure-1\Queues\bin\Debug\Lists.dll
+C:\Users\6252300438\Desktop\DataStructure-1\Queues\bin\Debug\Collections.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\Queues\bin\Debug\Lists.pdb
+C:\Users\6252300438\Desktop\DataStructure-1\Queues\obj\Debug\Queues.csprojAssemblyReference.cache
+C:\Users\6252300438\Desktop\DataStructure-1\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\6252300438\Desktop\DataStructure-1\Queues\obj\Debug\Queues.csproj.CopyComplete
+C:\Users\6252300438\Desktop\DataStructure-1\Queues\obj\Debug\Queues.dll
+C:\Users\6252300438\Desktop\DataStructure-1\Queues\obj\Debug\Queues.pdb
+>>>>>>> 5652152b10d09b8efb9f4a0b48e1b12f82ca5cc0

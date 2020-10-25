@@ -63,8 +63,6 @@ namespace Queues
 
         public object peek()
         {
-            if (isEmpty())
-                throw new System.MissingMemberException();
             return data[firstindex];
         }
 

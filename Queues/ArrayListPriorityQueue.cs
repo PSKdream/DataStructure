@@ -42,7 +42,7 @@ namespace Queues
         {
             return list.size();
         }
-
+        
         private int HighestPriorityIndex()
         {
             if (isEmpty())
